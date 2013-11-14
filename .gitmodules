@@ -99,10 +99,10 @@
 	url = https://github.com/rcbops-cookbooks/sosreport.git
 [submodule "cookbooks/rabbitmq-openstack"]
 	path = cookbooks/rabbitmq-openstack
-	url = https://github.com/rcbops-cookbooks/rabbitmq-openstack.git
+	url = https://github.com/Apsu/rcb-rabbitmq-openstack.git
 [submodule "cookbooks/mysql-openstack"]
 	path = cookbooks/mysql-openstack
-	url = https://github.com/rcbops-cookbooks/mysql-openstack.git
+	url = https://github.com/Apsu/rcb-mysql-openstack.git
 [submodule "cookbooks/mysql"]
 	path = cookbooks/mysql
 	url = https://github.com/opscode-cookbooks/mysql
@@ -120,10 +120,10 @@
 	url = https://github.com/rcbops-cookbooks/nova-network.git
 [submodule "cookbooks/keepalived"]
 	path = cookbooks/keepalived
-	url = https://github.com/rcbops-cookbooks/keepalived.git
+	url = https://github.com/Apsu/rcb-keepalived.git
 [submodule "cookbooks/openstack-ha"]
 	path = cookbooks/openstack-ha
-	url = https://github.com/rcbops-cookbooks/openstack-ha.git
+	url = https://github.com/Apsu/rcb-openstack-ha.git
 [submodule "cookbooks/memcached"]
 	path = cookbooks/memcached
 	url = https://github.com/opscode-cookbooks/memcached.git
